@@ -1,4 +1,6 @@
-
+--exemple: edition trigger for insert data in several tables.
+--Maintainer: Julien Ancelin
+-------------------------------------------------------
 
 CREATE OR REPLACE VIEW public.limi_view AS 
 
