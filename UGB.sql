@@ -1,4 +1,6 @@
-
+--calcul la pression de pâturage d'un cheptel de bovin sur une exploitation.
+--Maintainer: Julien Ancelin
+-------------------------------------------------------
 
 SELECT ROW_NUMBER() OVER () as unique_id,
 G.parcelle,
