@@ -1,4 +1,6 @@
-
+--CUT A POLYGON IN HALF WITH A LINE
+--Maintainer: Julien Ancelin
+-----------------------------------------------------
 -- La fonction ST_cut_in_half permet de couper un multipolygone, dans une couche, par une ligne et sans sélection.
 -- La fonction renvoi les deux nouveaux polygones ainsi que l'id du polygone d'origine.
 
